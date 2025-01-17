@@ -1,0 +1,38 @@
+header{
+    display: flex;
+    align-items: center;
+    background-color: black;
+    height: 130px;
+}
+a{
+  margin-left: 20px;
+  text-decoration: none;
+  color: rgb(255, 255, 255);font-size: 20px;
+}
+.menu{
+    margin-left: 700px;
+}
+.main{
+
+}
+.card{
+  margin-left: 100px;
+  padding: 30px;
+  border: 2px solid  rgb(224, 219, 219);
+  background-color: rgb(238, 239, 240);
+}
+main img{
+  height: 200px;
+width: 200px;
+}
+button{
+  color: blue;
+  background-color:green;
+  height: 100x;
+  width: 200px;
+
+
+  }
+  .content{
+
+  }
